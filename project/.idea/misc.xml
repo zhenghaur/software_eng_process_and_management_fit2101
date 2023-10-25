@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Justin Lai/Desktop/Monash Homework/FIT2101/group-a1/Projects/Software/app/src/main/res/layout/add_sprint.xml" value="0.2" />
+        <entry key="..\:/Users/Justin Lai/Desktop/Monash Homework/FIT2101/group-a1/Projects/Software/app/src/main/res/layout/drawer_layout_home_screen.xml" value="0.15" />
+        <entry key="..\:/Users/Justin Lai/Desktop/Monash Homework/FIT2101/group-a1/Projects/Software/app/src/main/res/layout/drawer_layout_product_backlog.xml" value="0.2" />
+        <entry key="..\:/Users/Justin Lai/Desktop/Monash Homework/FIT2101/group-a1/Projects/Software/app/src/main/res/layout/drawer_layout_sprint_board.xml" value="0.2" />
+        <entry key="..\:/Users/Justin Lai/Desktop/Monash Homework/FIT2101/group-a1/Projects/Software/app/src/main/res/layout/drawer_layout_team_members_list.xml" value="0.1" />
+        <entry key="..\:/Users/Justin Lai/Desktop/Monash Homework/FIT2101/group-a1/Projects/Software/app/src/main/res/layout/edit_task.xml" value="0.2" />
+        <entry key="..\:/Users/Justin Lai/Desktop/Monash Homework/FIT2101/group-a1/Projects/Software/app/src/main/res/layout/log_time_spent.xml" value="0.2" />
+        <entry key="..\:/Users/Justin Lai/Desktop/Monash Homework/FIT2101/group-a1/Projects/Software/app/src/main/res/layout/sprint_allocate_product_backlog.xml" value="0.1" />
+        <entry key="..\:/Users/Justin Lai/Desktop/Monash Homework/FIT2101/group-a1/Projects/Software/app/src/main/res/layout/sprint_board.xml" value="0.2" />
+        <entry key="..\:/Users/Justin Lai/Desktop/Monash Homework/FIT2101/group-a1/Projects/Software/app/src/main/res/layout/toolbar_home_screen.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/Justin Lai/Desktop/Monash Homework/FIT2101/group-a1/Projects/Software/app/src/main/res/layout/toolbar_product_backlog.xml" value="0.2" />
+        <entry key="..\:/Users/Justin Lai/Desktop/Monash Homework/FIT2101/group-a1/Projects/Software/app/src/main/res/menu/navi_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/Justin Lai/Desktop/Monash Homework/FIT2101/group-a1/Projects/Software/app/src/main/res/menu/task_menu.xml" value="0.2" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.153" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/add_task.xml" value="0.1" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/date_box.xml" value="0.1995" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/ic_add_sprint_button.xml" value="0.202" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/ic_baseline_calendar.xml" value="0.1995" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/ic_baseline_dashboard_24.xml" value="0.1" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/ic_delete.xml" value="0.1" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/ic_edit_sprint.xml" value="0.131" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/ic_rounded_calendar_bar1.xml" value="0.2" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/ic_rounder_calendarbox.xml" value="0.202" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/placeholder_background.xml" value="0.202" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/polygon_button.xml" value="0.202" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/product_backlog_image.xml" value="0.202" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/rounded_corner_box.xml" value="0.1995" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/side_nav_bar.xml" value="0.153" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/sprint_board.xml" value="0.153" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/drawable/team_members.xml" value="0.153" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/add_sprint.xml" value="0.264" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/add_task.xml" value="0.2" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/add_team_member.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/dashboard.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/drawer_layout_add_task.xml" value="0.23233695652173914" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/drawer_layout_sprint_board.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/edit_task.xml" value="0.23233695652173914" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/fragment_gallery.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/home_screen.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/item.xml" value="0.25" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/log_time_spent.xml" value="0.4" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/nav_header_main.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/product_backlog.xml" value="0.23777173913043478" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/sprint_allocate.xml" value="0.4" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/sprint_allocate_product_backlog.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/sprint_allocate_sprint_backlog.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/sprint_board.xml" value="0.264" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/sprint_card.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/sprint_overview.xml" value="0.23233695652173914" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/sprint_task_card.xml" value="0.2" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/task_card.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/team_member_card.xml" value="0.40298507462686567" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/team_member_list.xml" value="0.19375" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/layout/toolbar_add_task.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/User/group-a1/Projects/Software/app/src/main/res/menu/task_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Wei Jian/group-a1/Projects/Software/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Wei Jian/group-a1/Projects/Software/app/src/main/res/layout/activity_main2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Wei Jian/group-a1/Projects/Software/app/src/main/res/layout/edit_task.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Wei Jian/group-a1/Projects/Software/app/src/main/res/layout/product_backlog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/imadj/group-a1/Projects/Software/app/src/main/res/layout/sprint_overview.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/lzhau/Documents/Monash Uni/2022S2/FIT2101/assignment/group-a1/Projects/Software/app/src/main/res/layout/product_backlog.xml" value="0.3625" />
+        <entry key="..\:/Users/yeevern/OneDrive - Monash University/Desktop/group-a1/Projects/Software/app/src/main/res/layout/add_sprint.xml" value="0.22" />
+        <entry key="..\:/Users/yeevern/OneDrive - Monash University/Desktop/group-a1/Projects/Software/app/src/main/res/layout/analytics.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/yeevern/OneDrive - Monash University/Desktop/group-a1/Projects/Software/app/src/main/res/layout/dashboard.xml" value="0.22" />
+        <entry key="..\:/Users/yeevern/OneDrive - Monash University/Desktop/group-a1/Projects/Software/app/src/main/res/layout/log_time_spent.xml" value="0.22" />
+        <entry key="..\:/Users/yeevern/OneDrive - Monash University/Desktop/group-a1/Projects/Software/app/src/main/res/layout/sprint_allocate_product_backlog.xml" value="0.1" />
+        <entry key="..\:/Users/yeevern/OneDrive - Monash University/Desktop/group-a1/Projects/Software/app/src/main/res/layout/sprint_board.xml" value="0.1" />
+        <entry key="..\:/Users/yeevern/OneDrive - Monash University/Desktop/group-a1/Projects/Software/app/src/main/res/layout/sprint_card.xml" value="0.22" />
+        <entry key="..\:/Users/yeevern/OneDrive - Monash University/Desktop/group-a1/Projects/Software/app/src/main/res/layout/sprint_task_card.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

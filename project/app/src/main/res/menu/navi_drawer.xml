@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:id="@+id/goToHomePage"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:orderInCategory="1"
+        android:title="Home Page" />
+    <item
+        android:id="@+id/goToAddTask"
+        android:icon="@drawable/add_task"
+        android:orderInCategory="2"
+        android:title="Add Task" />
+    <item
+        android:id="@+id/goToProductBackLog"
+        android:icon="@drawable/product_backlog_image"
+        android:orderInCategory="3"
+        android:title="Product Backlog"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/goToSprintBoard"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        android:orderInCategory="4"
+        android:title="Sprint Board" />
+    <item
+        android:id="@+id/goToTeamMembers"
+        android:icon="@drawable/team_members"
+        android:orderInCategory="5"
+        android:title="Team Members" />
+
+</menu>

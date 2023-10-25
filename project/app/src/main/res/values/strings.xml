@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Software</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+
+    <string-array name="priority">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Critical</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>Not Started</item>
+        <item>In Progress</item>
+        <item>Developing</item>
+        <item>Testing</item>
+        <item>Completed</item>
+    </string-array>
+
+    <string-array name="assigned">
+        <item>Tan Wei Yih</item>
+        <item>Chang Yee Vern</item>
+        <item>Justin Lai Mun Kit</item>
+        <item>Lim Zheng Haur</item>
+        <item>Iliyana Samsudin</item>
+        <item>Imad Jihadi</item>
+    </string-array>
+
+    <string-array name="tags">
+        <item>UI</item>
+        <item>Core</item>
+        <item>Testing</item>
+    </string-array>
+
+    <string-array name="filterTags">
+        <item>None</item>
+        <item>UI</item>
+        <item>Core</item>
+        <item>Testing</item>
+    </string-array>
+    <string name="title_activity_analytics">Analytics</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
